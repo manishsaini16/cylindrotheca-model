@@ -1,6 +1,6 @@
-# cylindrotheca-model
+# Genome scale metabolic model of Cylindrotheca closterium
 
-Something
+This repository 
 
 
 
