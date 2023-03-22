@@ -1,0 +1,156 @@
+Subsystems,CO2,HCO3,N02 + NO3,NO2,PO4,Si,up_down
+"Amino acid metabolism: Alanine, Aspartate and Glutamate metabolism",1.0,1.0,0.0,0.0,1.0,0.0,Increased Flux
+Amino acid metabolism: Aminoacyl-tRNA biosynthesis,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+Amino acid metabolism: Cysteine and methionine metabolism,1.0,1.0,1.0,0.0,0.0,0.0,Increased Flux
+"Amino acid metabolism: Glycine, serine and threonine metabolism",1.0,0.0,1.0,1.0,0.0,1.0,Increased Flux
+Amino acid metabolism: Lysine degradation,1.0,0.0,1.0,0.0,1.0,0.0,Increased Flux
+"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",1.0,1.0,0.0,1.0,1.0,0.0,Increased Flux
+"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",1.0,1.0,0.0,0.0,1.0,1.0,Increased Flux
+"Amino acid metabolism: Valine, Leucine and Isoleucine degradation",1.0,1.0,0.0,0.0,1.0,1.0,Increased Flux
+Ascorbate metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+Biosynthesis of steroids: Terpenoid backbone synthesis,1.0,0.0,1.0,0.0,0.0,0.0,Increased Flux
+Citrate cycle (TCA cycle),1.0,0.0,1.0,0.0,1.0,1.0,Increased Flux
+Cofactor biosynthesis: Folate biosynthesis,1.0,1.0,0.0,0.0,1.0,1.0,Increased Flux
+Cofactor biosynthesis: Regeneration,1.0,0.0,1.0,1.0,1.0,0.0,Increased Flux
+Folate Metabolism,1.0,1.0,0.0,1.0,1.0,0.0,Increased Flux
+Fructose and mannose metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+Galactoglycerolipid metabolism,1.0,0.0,1.0,1.0,1.0,1.0,Increased Flux
+"Glycine, serine and threonine metabolism",1.0,0.0,1.0,1.0,0.0,1.0,Increased Flux
+Glycolysis/Gluconeogenesis,1.0,1.0,1.0,0.0,1.0,0.0,Increased Flux
+Glycolysis/Gluconeogenesis/Entner-Doudoroff pathway,1.0,0.0,0.0,0.0,1.0,1.0,Increased Flux
+Glyoxylate metabolism,1.0,1.0,0.0,1.0,0.0,0.0,Increased Flux
+Methionine metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+Nitrogen metabolism,1.0,1.0,1.0,1.0,0.0,1.0,Increased Flux
+Nucleotide Salvage Pathway,1.0,0.0,0.0,0.0,0.0,0.0,Increased Flux
+Nucleotide sugar metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+Pentose phosphate pathway,1.0,1.0,0.0,0.0,0.0,0.0,Increased Flux
+Phosphoglycerolipid metabolism,1.0,0.0,0.0,0.0,0.0,0.0,Increased Flux
+Photosynthesis,1.0,1.0,0.0,0.0,1.0,0.0,Increased Flux
+Porphyrin and chlorophyll metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+Purine metabolism,1.0,0.0,1.0,1.0,0.0,1.0,Increased Flux
+Pyrimidine metabolism,1.0,0.0,0.0,1.0,0.0,0.0,Increased Flux
+Pyruvate metabolism,1.0,0.0,1.0,1.0,1.0,1.0,Increased Flux
+Starch and sucrose metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Increased Flux
+"Transport, extracellular",1.0,1.0,0.0,0.0,1.0,0.0,Increased Flux
+"Transport, mitochondria",1.0,1.0,0.0,0.0,1.0,0.0,Increased Flux
+Triacylglycerol degradation,1.0,0.0,0.0,0.0,0.0,0.0,Increased Flux
+"Valine, Leucine, and Isoleucine Metabolism",1.0,1.0,0.0,0.0,1.0,0.0,Increased Flux
+Alternate Carbon Metabolism,0.0,1.0,1.0,0.0,1.0,1.0,Increased Flux
+Arginine and proline metabolism,0.0,1.0,1.0,1.0,1.0,0.0,Increased Flux
+Carbon fixation,0.0,1.0,1.0,1.0,0.0,1.0,Increased Flux
+Cell Envelope Biosynthesis,0.0,1.0,0.0,0.0,0.0,0.0,Increased Flux
+Cofactor biosynthesis: Biotin biosynthesis,0.0,1.0,0.0,0.0,0.0,0.0,Increased Flux
+Cofactor biosynthesis: Thiamine (B1),0.0,1.0,0.0,1.0,1.0,1.0,Increased Flux
+Glyoxylate cycle; Citrate cycle (TCA cycle); Dicarboxylate metabolism,0.0,1.0,0.0,0.0,0.0,0.0,Increased Flux
+Nucleotides,0.0,1.0,1.0,0.0,1.0,1.0,Increased Flux
+Nucleotides and nucleic acids,0.0,1.0,1.0,1.0,0.0,0.0,Increased Flux
+One carbon pool by folate,0.0,1.0,1.0,0.0,0.0,0.0,Increased Flux
+Urea cycle,0.0,1.0,1.0,1.0,1.0,0.0,Increased Flux
+ Dicarboxylate metabolism  TCA cycle Glyoxylate cycle Glyoxylate cycle; TCA cycle; Dicarboxylate metabolism,0.0,0.0,1.0,1.0,0.0,0.0,Increased Flux
+Amino acid metabolism: Cysteine and Methionine metabolism,0.0,0.0,1.0,0.0,1.0,1.0,Increased Flux
+Amino acid metabolism: Histidine metabolism,0.0,0.0,1.0,1.0,0.0,0.0,Increased Flux
+Amino acid metabolism: Lysine biosynthesis,0.0,0.0,1.0,0.0,1.0,0.0,Increased Flux
+Calvin-Benson cycle,0.0,0.0,1.0,0.0,1.0,1.0,Increased Flux
+Cofactor and Prosthetic Group Biosynthesis,0.0,0.0,1.0,0.0,1.0,0.0,Increased Flux
+Cofactor biosynthesis: Riboflavin biosynthesis,0.0,0.0,1.0,0.0,1.0,1.0,Increased Flux
+Cofactor biosynthesis: Vitamin B6,0.0,0.0,1.0,1.0,1.0,1.0,Increased Flux
+Cysteine metabolism,0.0,0.0,1.0,0.0,0.0,0.0,Increased Flux
+Fatty acid biosynthesis,0.0,0.0,1.0,0.0,1.0,1.0,Increased Flux
+"Fatty acid biosynthesis, mitochondria",0.0,0.0,1.0,1.0,1.0,1.0,Increased Flux
+Fatty acid biosynthesis: Long chain omega-3 synthesis,0.0,0.0,1.0,0.0,0.0,0.0,Increased Flux
+Glutamate metabolism,0.0,0.0,1.0,1.0,1.0,1.0,Increased Flux
+Histidine metabolism,0.0,0.0,1.0,0.0,0.0,0.0,Increased Flux
+Inositol phosphate metabolism,0.0,0.0,1.0,1.0,1.0,0.0,Increased Flux
+Metabolism of other amino acids: Glutathione metabolism,0.0,0.0,1.0,0.0,1.0,0.0,Increased Flux
+Metabolism of other amino acids: Selenoamino acid metabolism,0.0,0.0,1.0,1.0,0.0,1.0,Increased Flux
+Nucleotide metabolism: Purine metabolism,0.0,0.0,1.0,1.0,0.0,1.0,Increased Flux
+Sulfolipid biosynthesis,0.0,0.0,1.0,1.0,1.0,1.0,Increased Flux
+Sulfur metabolism,0.0,0.0,1.0,1.0,0.0,0.0,Increased Flux
+"Transport, Extracellular",0.0,0.0,1.0,1.0,1.0,0.0,Increased Flux
+Unassigned,0.0,0.0,1.0,1.0,1.0,0.0,Increased Flux
+Alanine and Aspartate Metabolism,0.0,0.0,0.0,1.0,1.0,0.0,Increased Flux
+Carotenoid biosynthesis,0.0,0.0,0.0,1.0,1.0,1.0,Increased Flux
+Cysteine and methionine metabolism,0.0,0.0,0.0,1.0,0.0,0.0,Increased Flux
+Energy Metabolism,0.0,0.0,0.0,1.0,0.0,0.0,Increased Flux
+Transport,0.0,0.0,0.0,1.0,1.0,1.0,Increased Flux
+"Transport, chloroplast",0.0,0.0,0.0,1.0,1.0,0.0,Increased Flux
+Amino sugar metabolism,0.0,0.0,0.0,0.0,1.0,0.0,Increased Flux
+Cofactor biosynthesis: Nicotinate and Nicotinamide metabolism,0.0,0.0,0.0,0.0,1.0,0.0,Increased Flux
+Cofactor biosynthesis: Pantothenate and CoA biosynthesis,0.0,0.0,0.0,0.0,1.0,0.0,Increased Flux
+Galactose metabolism,0.0,0.0,0.0,0.0,0.0,1.0,Increased Flux
+N-Glycan biosynthesis,0.0,0.0,0.0,0.0,0.0,1.0,Increased Flux
+ Dicarboxylate metabolism  TCA cycle Glyoxylate cycle Glyoxylate cycle; TCA cycle; Dicarboxylate metabolism,1.0,1.0,0.0,0.0,1.0,1.0,Decreased Flux
+Alanine and Aspartate Metabolism,1.0,1.0,1.0,0.0,0.0,1.0,Decreased Flux
+Alternate Carbon Metabolism,1.0,0.0,0.0,1.0,0.0,0.0,Decreased Flux
+Amino acid metabolism: Arginine and proline metabolism,1.0,1.0,1.0,1.0,1.0,1.0,Decreased Flux
+Amino acid metabolism: Cysteine and Methionine metabolism,1.0,1.0,0.0,1.0,0.0,0.0,Decreased Flux
+Arginine and proline metabolism,1.0,0.0,0.0,0.0,0.0,1.0,Decreased Flux
+Calvin-Benson cycle,1.0,1.0,0.0,1.0,0.0,0.0,Decreased Flux
+Carbon fixation,1.0,0.0,0.0,0.0,1.0,0.0,Decreased Flux
+Cell Envelope Biosynthesis,1.0,0.0,0.0,0.0,0.0,0.0,Decreased Flux
+Cofactor and Prosthetic Group Biosynthesis,1.0,1.0,0.0,1.0,0.0,1.0,Decreased Flux
+Cofactor biosynthesis: Biotin biosynthesis,1.0,0.0,0.0,0.0,0.0,0.0,Decreased Flux
+Cofactor biosynthesis: Lipoate biosynthesis,1.0,0.0,0.0,0.0,0.0,0.0,Decreased Flux
+Cofactor biosynthesis: Thiamine (B1),1.0,0.0,1.0,0.0,0.0,0.0,Decreased Flux
+Energy Metabolism,1.0,1.0,1.0,0.0,1.0,1.0,Decreased Flux
+Glutamate metabolism,1.0,1.0,0.0,0.0,0.0,0.0,Decreased Flux
+Glyoxylate cycle; Citrate cycle (TCA cycle); Dicarboxylate metabolism,1.0,0.0,1.0,1.0,1.0,1.0,Decreased Flux
+Metabolism of other amino acids: Selenoamino acid metabolism,1.0,1.0,0.0,0.0,1.0,0.0,Decreased Flux
+Nucleotides,1.0,0.0,0.0,1.0,0.0,0.0,Decreased Flux
+Nucleotides and nucleic acids,1.0,0.0,0.0,0.0,1.0,1.0,Decreased Flux
+One carbon pool by folate,1.0,0.0,0.0,1.0,1.0,0.0,Decreased Flux
+Oxidative phosphorylation,1.0,1.0,1.0,1.0,1.0,1.0,Decreased Flux
+Sphingolipid metabolism,1.0,1.0,0.0,0.0,0.0,0.0,Decreased Flux
+Sulfur metabolism,1.0,1.0,0.0,0.0,1.0,1.0,Decreased Flux
+Urea cycle,1.0,0.0,0.0,0.0,0.0,1.0,Decreased Flux
+"Amino acid metabolism: Glycine, serine and threonine metabolism",0.0,1.0,0.0,0.0,1.0,0.0,Decreased Flux
+Amino acid metabolism: Lysine degradation,0.0,1.0,0.0,1.0,0.0,1.0,Decreased Flux
+Biosynthesis of steroids: Terpenoid backbone synthesis,0.0,1.0,0.0,1.0,1.0,1.0,Decreased Flux
+Citrate cycle (TCA cycle),0.0,1.0,0.0,1.0,0.0,0.0,Decreased Flux
+Cofactor biosynthesis: Regeneration,0.0,1.0,0.0,0.0,0.0,1.0,Decreased Flux
+Galactoglycerolipid metabolism,0.0,1.0,0.0,0.0,0.0,0.0,Decreased Flux
+"Glycine, serine and threonine metabolism",0.0,1.0,0.0,0.0,1.0,0.0,Decreased Flux
+Nucleotide Salvage Pathway,0.0,1.0,1.0,1.0,1.0,1.0,Decreased Flux
+Glycolysis/Gluconeogenesis/Entner-Doudoroff pathway,0.0,1.0,1.0,1.0,0.0,0.0,Decreased Flux
+Phosphoglycerolipid metabolism,0.0,1.0,1.0,1.0,1.0,1.0,Decreased Flux
+Purine metabolism,0.0,1.0,0.0,0.0,1.0,0.0,Decreased Flux
+Pyrimidine metabolism,0.0,1.0,1.0,0.0,1.0,1.0,Decreased Flux
+Pyruvate metabolism,0.0,1.0,0.0,0.0,0.0,0.0,Decreased Flux
+Triacylglycerol degradation,0.0,1.0,1.0,1.0,1.0,1.0,Decreased Flux
+"Amino acid metabolism: Alanine, Aspartate and Glutamate metabolism",0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0,0.0,1.0,0.0,0.0,1.0,Decreased Flux
+Amino acid metabolism: Proline and Arginine metabolism,0.0,0.0,1.0,1.0,1.0,1.0,Decreased Flux
+"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0,0.0,1.0,1.0,0.0,0.0,Decreased Flux
+"Amino acid metabolism: Valine, Leucine and Isoleucine degradation",0.0,0.0,1.0,1.0,0.0,0.0,Decreased Flux
+Carotenoid biosynthesis,0.0,0.0,1.0,0.0,0.0,0.0,Decreased Flux
+Cofactor biosynthesis: Folate biosynthesis,0.0,0.0,1.0,1.0,0.0,0.0,Decreased Flux
+Cofactor biosynthesis: Nicotinate and Nicotinamide metabolism,0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+Cofactor biosynthesis: Pantothenate and CoA biosynthesis,0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+Cysteine and methionine metabolism,0.0,0.0,1.0,0.0,1.0,1.0,Decreased Flux
+Folate Metabolism,0.0,0.0,1.0,0.0,0.0,1.0,Decreased Flux
+Galactose metabolism,0.0,0.0,1.0,1.0,1.0,0.0,Decreased Flux
+Glyoxylate metabolism,0.0,0.0,1.0,0.0,1.0,1.0,Decreased Flux
+Pentose phosphate pathway,0.0,0.0,1.0,1.0,1.0,1.0,Decreased Flux
+Photosynthesis,0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+Transport,0.0,0.0,1.0,0.0,0.0,0.0,Decreased Flux
+"Transport, Inner Membrane",0.0,0.0,1.0,1.0,1.0,1.0,Decreased Flux
+"Transport, chloroplast",0.0,0.0,1.0,0.0,0.0,1.0,Decreased Flux
+"Transport, extracellular",0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+"Transport, mitochondria",0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+Triacylglycerol biosynthesis,0.0,0.0,1.0,1.0,1.0,1.0,Decreased Flux
+"Valine, Leucine, and Isoleucine Metabolism",0.0,0.0,1.0,1.0,0.0,1.0,Decreased Flux
+Amino acid metabolism: Cysteine and methionine metabolism,0.0,0.0,0.0,1.0,1.0,1.0,Decreased Flux
+Amino acid metabolism: Lysine biosynthesis,0.0,0.0,0.0,1.0,0.0,1.0,Decreased Flux
+Cysteine metabolism,0.0,0.0,0.0,1.0,1.0,1.0,Decreased Flux
+Fatty acid biosynthesis,0.0,0.0,0.0,1.0,0.0,0.0,Decreased Flux
+Fatty acid biosynthesis: Long chain omega-3 synthesis,0.0,0.0,0.0,1.0,1.0,1.0,Decreased Flux
+Glycolysis/Gluconeogenesis,0.0,0.0,0.0,1.0,0.0,1.0,Decreased Flux
+Histidine metabolism,0.0,0.0,0.0,1.0,1.0,1.0,Decreased Flux
+Metabolism of other amino acids: Glutathione metabolism,0.0,0.0,0.0,1.0,0.0,1.0,Decreased Flux
+N-Glycan biosynthesis,0.0,0.0,0.0,1.0,0.0,0.0,Decreased Flux
+Amino acid metabolism: Histidine metabolism,0.0,0.0,0.0,0.0,1.0,1.0,Decreased Flux
+Nitrogen metabolism,0.0,0.0,0.0,0.0,1.0,0.0,Decreased Flux
+Nucleotide metabolism: Purine metabolism,0.0,0.0,0.0,0.0,1.0,0.0,Decreased Flux
+Inositol phosphate metabolism,0.0,0.0,0.0,0.0,0.0,1.0,Decreased Flux
+"Transport, Extracellular",0.0,0.0,0.0,0.0,0.0,1.0,Decreased Flux
+Unassigned,0.0,0.0,0.0,0.0,0.0,1.0,Decreased Flux
