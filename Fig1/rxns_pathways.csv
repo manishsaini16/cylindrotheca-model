@@ -1,0 +1,18 @@
+,path_name,path,path_gene,path_nogene
+0,Lipid metabolism,6346,6306,40.0
+1,Transport,801,292,509.0
+2,Amino acid metabolism,513,495,18.0
+3,Exchange,485,45,440.0
+4,Carbohydrate metabolism,373,358,15.0
+5,Nucleotide metabolism,312,296,16.0
+6,Metabolism of cofactors and vitamins,241,239,2.0
+7,Energy metabolism,150,130,20.0
+8,Metabolism of terpenoids and polyketides,56,56,0.0
+9,Unassigned,44,37,7.0
+10,Glycolysis / Gluconeogenesis,41,41,0.0
+11,TCA Cycle,37,36,1.0
+12,Pentose phosphate pathway,34,34,0.0
+13,Glycan biosynthesis and metabolism,23,23,0.0
+14,Nitrogen metabolism,15,15,0.0
+15,Urea cycle,12,12,0.0
+16,Xenobiotics biodegradation and metabolism,9,9,0.0

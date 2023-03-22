@@ -1,0 +1,668 @@
+Glycerolipid metabolism	Lipid metabolism
+Transport, chloroplast	Transport
+Glycerophospholipid metabolism	Lipid metabolism
+Fatty acid biosynthesis	Lipid metabolism
+Transport, mitochondria	Transport
+Purine metabolism	Nucleotide metabolism
+Fatty acid elongation in mitochondria	Lipid metabolism
+Pyrimidine metabolism	Nucleotide metabolism
+Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+Transport, thylakoid lumen	Transport
+Biosynthesis of steroids	Lipid metabolism
+Exchange	Exchange
+Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+iRC1080:Glycerophospholipid metabolism	Lipid metabolism
+Histidine metabolism	Amino acid metabolism
+Transport, extracellular	Transport
+Glycolysis / Gluconeogenesis	Glycolysis / Gluconeogenesis
+Biosynthesis of unsaturated fatty acids	Lipid metabolism
+Arginine and proline metabolism	Amino acid metabolism
+Retinol metabolism	Metabolism of cofactors and vitamins
+Fatty acid metabolism	Lipid metabolism
+Starch and sucrose metabolism	Carbohydrate metabolism
+Pyruvate metabolism	Carbohydrate metabolism
+Glycine, serine and threonine metabolism	Amino acid metabolism
+Oxidative phosphorylation	Energy metabolism
+Lysine biosynthesis	Amino acid metabolism
+Propanoate metabolism	Carbohydrate metabolism
+Arginine and proline metabolism;Urea cycle and metabolism of amino groups	Amino acid metabolism
+Methionine metabolism	Amino acid metabolism
+Pentose phosphate pathway;Carbon fixation	Pentose phosphate pathway
+Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+Butanoate metabolism	Carbohydrate metabolism
+Pentose phosphate pathway	Pentose phosphate pathway
+Glycine, serine and threonine metabolism;Lysine biosynthesis	Amino acid metabolism
+One carbon pool by folate	Metabolism of cofactors and vitamins
+Nitrogen metabolism	Nitrogen metabolism
+Glycolysis / Gluconeogenesis;Carbon fixation	Glycolysis / Gluconeogenesis
+Glyoxylate metabolism	Carbohydrate metabolism
+Carbon fixation	Energy metabolism
+Starch metabolism	Carbohydrate metabolism
+TCA cycle;CO2 fixation	TCA Cycle
+Glutamate metabolism;Nitrogen metabolism	Nitrogen metabolism
+Glutamate metabolism	Amino acid metabolism
+Glutathione metabolism	Amino acid metabolism
+Pyruvate metabolism;Glyoxylate metabolism	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism	Carbohydrate metabolism
+Fructose and mannose metabolism	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+Biomass	Biomass
+Alanine and aspartate metabolism;Nitrogen metabolism	Amino acid metabolism
+Sulfur metabolism	Energy metabolism
+Cofactor recycling	Metabolism of cofactors and vitamins
+Glycolysis / Gluconeogenesis;Alanine and aspartate metabolism	Glycolysis / Gluconeogenesis
+Glyoxylate metabolism;Pyruvate metabolism	Carbohydrate metabolism
+Pyruvate metabolism;CO2 fixation	Carbohydrate metabolism
+TCA cycle	TCA Cycle
+Alanine and aspartate metabolism	Amino acid metabolism
+TCA cycle;Pyruvate metabolism;Carbon fixation	TCA Cycle
+Starch and sucrose metabolism;Galactose metabolism	Carbohydrate metabolism
+Cysteine metabolism	Amino acid metabolism
+Nicotinate and nicotinamide metabolism	Nucleotide metabolism
+Glyoxylate metabolism;CO2 fixation	Carbohydrate metabolism
+Galactose metabolism	Carbohydrate metabolism
+Ascorbate and aldarate metabolism	Metabolism of cofactors and vitamins
+ATP maintenance	Energy metabolism
+TCA cycle;Oxidative phosphorylation	TCA Cycle
+Phosphoglycerolipid metabolism	Lipid metabolism
+Fatty acid biosynthesis: Long chain omega-3 synthesis	Lipid metabolism
+Galactoglycerolipid metabolism	Lipid metabolism
+Nucleotide metabolism: Purine metabolism	Nucleotide metabolism
+Nucleotide metabolism: Pyrimidine metabolism	Nucleotide metabolism
+Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis	Amino acid metabolism
+Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis	Amino acid metabolism
+Glycolysis/Gluconeogenesis/Entner-Doudoroff pathway	Glycolysis / Gluconeogenesis
+Biosynthesis of steroids: Terpenoid backbone synthesis	Lipid metabolism
+Triacylglycerol biosynthesis	Lipid metabolism
+Calvin-Benson cycle	Energy metabolism
+Amino acid metabolism: Histidine metabolism	Amino acid metabolism
+Extracellular exchange	Exchange
+Sulfolipid metabolism	Lipid metabolism
+Transport, fatty acids	Transport
+Amino acid metabolism: Alanine, Aspartate and Glutamate metabolism	Amino acid metabolism
+Amino acid metabolism: Glycine, Serine and Threonine metabolism	Amino acid metabolism
+Amino acid metabolism: Cysteine and Methionine metabolism	Amino acid metabolism
+Triacylglycerol degradation	Lipid metabolism
+Transport, triacylglycerol	Transport
+Photosynthesis	Energy metabolism
+Nucleotide sugar metabolism	Carbohydrate metabolism
+Amino acid metabolism: Proline and Arginine metabolism	Amino acid metabolism
+Cofactor biosynthesis: Folate biosynthesis	Metabolism of cofactors and vitamins
+Urea cycle	Urea cycle
+Transport, cytosol	Transport
+Ascorbate metabolism	Carbohydrate metabolism
+Glyoxylate cycle; TCA cycle; Dicarboxylate metabolism	Carbohydrate metabolism
+Cofactor biosynthesis: Regeneration	Metabolism of cofactors and vitamins
+Fatty acid degradation, mitochondria	Lipid metabolism
+Metabolism of other amino acids: Glutathione metabolism	Amino acid metabolism
+Amino acid metabolism: Homoserine biosynthesis	Amino acid metabolism
+Transport, thylakoid	Transport
+Amino acid metabolism: Aminoacyl-tRNA biosynthesis	Amino acid metabolism
+Modeling: Biomass	Biomass
+Sulfolipid biosynthesis	Lipid metabolism
+Cofactor biosynthesis: Nicotinate and Nicotinamide metabolism	Metabolism of cofactors and vitamins
+Cardiolipin biosynthesis	Lipid metabolism
+Modeling: ATP maintenance	Energy metabolism
+Cofactor biosynthesis: Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+Alanine and aspartate metabolism;Glycine, serine and threonine metabolism	Amino acid metabolism
+Carbon fixation;Pyruvate metabolism	Carbohydrate metabolism
+Spectral decomposition	Energy metabolism
+Glycolysis / Gluconeogenesis;Pyruvate metabolism	Glycolysis / Gluconeogenesis
+Inositol phosphate metabolism	Carbohydrate metabolism
+TCA cycle;Carbon fixation;CO2 fixation	Carbohydrate metabolism
+Transport Mitochondrial	Transport
+Sterol Metabolism	Lipid metabolism
+Tyrosine Tryptophan and Phenylalanine Metabolism	Amino acid metabolism
+Purine and Pyrimidine Biosynthesis	Nucleotide metabolism
+GlycolysisGluconeogenesis	Glycolysis / Gluconeogenesis
+Arginine and Proline Metabolism	Amino acid metabolism
+Methionine Metabolism	Amino acid metabolism
+Oxidative Phosphorylation	Energy metabolism
+Valine Leucine and Isoleucine Metabolism	Amino acid metabolism
+Citric Acid Cycle	TCA Cycle
+Histidine Metabolism	Amino acid metabolism
+Pantothenate and CoA Biosynthesis	Metabolism of cofactors and vitamins
+Pentose Phosphate Pathway	Pentose phosphate pathway
+Threonine and Lysine Metabolism	Amino acid metabolism
+Transport Extracellular	Transport
+Transport Endoplasmic Reticular	Transport
+Fatty Acid Biosynthesis	Lipid metabolism
+Glycine and Serine Metabolism	Amino acid metabolism
+Nucleotide Salvage Pathway	Nucleotide metabolism
+Cysteine Metabolism	Amino acid metabolism
+Alternate Carbon Metabolism	Carbohydrate metabolism
+Alanine and Aspartate Metabolism	Amino acid metabolism
+Pyruvate Metabolism	Carbohydrate metabolism
+Folate Metabolism	Metabolism of cofactors and vitamins
+Glutamine Metabolism	Amino acid metabolism
+Glycerolipid Metabolism	Lipid metabolism
+Biomass and maintenance functions	Biomass
+Transport, ER membrane	Transport
+Transport, mitochondrion	Transport
+Glycolysis/Gluconeogenesis	Glycolysis / Gluconeogenesis
+Fatty acid degradation	Lipid metabolism
+Citrate cycle (TCA cycle)	TCA Cycle
+Transport, lipid particle	Transport
+Transport, peroxisome	Transport
+Fatty acid elongation	Lipid metabolism
+Alanine, aspartate and glutamate metabolism	Amino acid metabolism
+Cysteine and methionine metabolism	Amino acid metabolism
+Transport, envelope	Transport
+Transport, ER membrane to lipid particle	Transport
+Transport, ER membrane to mitochondrial membrane	Transport
+Cysteine and methionine metabolism, one carbon pool by folate	Amino acid metabolism
+Transport, mitochondrial membrane	Transport
+Transport, mitochondrion to mitochondrial membrane	Transport
+Carbon metabolism	Carbohydrate metabolism
+Fatty acid desaturation	Lipid metabolism
+Transport, ER membrane to cell envelope	Transport
+Model specific	Biomass
+TRANSPORT, MITOCHONDRIAL	Transport
+VALINE, LEUCINE, AND ISOLEUCINE METABOLISM	Amino acid metabolism
+TRANSPORT, EXTRACELLULAR	Transport
+TRYPTOPHAN METABOLISM	Amino acid metabolism
+GLYCEROPHOSPHOLIPID METABOLISM	Lipid metabolism
+CHOLESTEROL METABOLISM	Lipid metabolism
+GLYCOLYSIS/GLUCONEOGENESIS	Glycolysis / Gluconeogenesis
+TRANSPORT, ENDOPLASMIC RETICULAR	Transport
+TRANSPORT, PEROXISOMAL	Transport
+CITRIC ACID CYCLE	TCA Cycle
+NUCLEOTIDE INTERCONVERSION	Nucleotide metabolism
+SPHINGOLIPID METABOLISM	Lipid metabolism
+METHIONINE AND CYSTEINE METABOLISM	Amino acid metabolism
+PENTOSE PHOSPHATE PATHWAY	Pentose phosphate pathway
+GLYCINE, SERINE, ALANINE AND THREONINE METABOLISM	Amino acid metabolism
+TYROSINE METABOLISM	Amino acid metabolism
+PROPANOATE METABOLISM	Carbohydrate metabolism
+LYSINE METABOLISM	Amino acid metabolism
+SQUALENE AND CHOLESTEROL SYNTHESIS	Lipid metabolism
+GLUTAMATE METABOLISM	Amino acid metabolism
+OXIDATIVE PHOSPHORYLATION	Energy metabolism
+ALANINE AND ASPARTATE METABOLISM	Amino acid metabolism
+PURINE CATABOLISM	Nucleotide metabolism
+UREA CYCLE	Urea cycle
+GLYCINE, SERINE, AND THREONINE METABOLISM	Amino acid metabolism
+INOSITOL PHOSPHATE METABOLISM	Carbohydrate metabolism
+PYRUVATE METABOLISM	Carbohydrate metabolism
+BETA-ALANINE METABOLISM	Amino acid metabolism
+CYSTEINE METABOLISM	Amino acid metabolism
+TRIACYLGLYCEROL SYNTHESIS	Lipid metabolism
+TETRAHYDROBIOPTERIN METABOLISM	Metabolism of cofactors and vitamins
+GLYOXYLATE AND DICARBOXYLATE METABOLISM	Carbohydrate metabolism
+PURINE SYNTHESIS	Nucleotide metabolism
+EXCHANGE	Exchange
+HISTIDINE METABOLISM	Amino acid metabolism
+VITAMIN B2 METABOLISM	Metabolism of cofactors and vitamins
+FRUCTOSE AND MANNOSE METABOLISM	Carbohydrate metabolism
+FATTY ACID OXIDATION	Lipid metabolism
+FATTY ACID METABOLISM	Lipid metabolism
+UREA CYCLE/AMINO GROUP METABOLISM	Amino acid metabolism
+TAURINE AND HYPOTAURINE METABOLISM	Amino acid metabolism
+ARGININE AND PROLINE METABOLISM	Amino acid metabolism
+Fatty acid degradation, peroxisome	Lipid metabolism
+N-Glycan biosynthesis	Glycan biosynthesis and metabolism
+Fatty acid biosynthesis, mitochondria	Lipid metabolism
+Valine, leucine and isoleucine degradation	Amino acid metabolism
+Selenoamino acid metabolism	Amino acid metabolism
+SPHINGOLIPID METABOLISM	Lipid metabolism
+Amino acid metabolism: Valine, Leucine and Isoleucine degradation	Amino acid metabolism
+Transport, glyoxysome	Transport
+Metabolism of other amino acids: Selenoamino acid metabolism	Amino acid metabolism
+Transport, eyespot	Transport
+Biosynthesis of steroids: Ubiquinone/Terpenoid-quinone biosynthesis	Lipid metabolism
+Drug metabolism - cytochrome P450	Xenobiotics biodegradation and metabolism
+Cofactor biosynthesis: Riboflavin biosynthesis	Metabolism of cofactors and vitamins
+Cofactor biosynthesis: Vitamin B6	Metabolism of cofactors and vitamins
+Riboflavin metabolism	Metabolism of cofactors and vitamins
+BETA-ALANINE METABOLISM	Amino acid metabolism
+Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+Drug metabolism - other enzymes	Xenobiotics biodegradation and metabolism
+Amino acid metabolism: Lysine degradation	Amino acid metabolism
+Folate biosynthesis	Metabolism of cofactors and vitamins
+Cofactor biosynthesis: Thiamine (B1)	Metabolism of cofactors and vitamins
+Amino sugar metabolism	Carbohydrate metabolism
+Urea degradation	Urea cycle
+beta-Alanine metabolism;Pyrimidine metabolism	Amino acid metabolism
+Biosynthesis of steroids: Steroid synthesis	Lipid metabolism
+Cofactor biosynthesis: Biotin biosynthesis	Metabolism of cofactors and vitamins
+TYROSINE METABOLISM	Amino acid metabolism
+Amino acid metabolism: Asparagine metabolism	Amino acid metabolism
+Methionine metabolism;Urea cycle and metabolism of amino groups	Amino acid metabolism
+Amino acid metabolism: Tyrosine metabolism	Amino acid metabolism
+Glutamate metabolism;Glutathione metabolism	Amino acid metabolism
+Methane metabolism	Energy metabolism
+Plastoquinol biosynthesis	Energy metabolism
+Nitrogen metabolism;Histidine metabolism	Nitrogen metabolism
+Transport, nucleus	Transport
+Transport, flagella	Transport
+Metabolism of other amino acids: beta-Alanine metabolism	Amino acid metabolism
+Cysteine metabolism;Sulfur metabolism	Amino acid metabolism
+TCA cycle;Alanine and aspartate metabolism	TCA Cycle
+High-mannose type N-glycan biosynthesis	Glycan biosynthesis and metabolism
+Amino acid metabolism: Lysine biosynthesis	Amino acid metabolism
+Terpenoid backbone biosynthesis	Metabolism of terpenoids and polyketides
+Phylloquinone biosynthesis	Energy metabolism
+Carbon fixation;Glutamate metabolism;Alanine and aspartate metabolism	Amino acid metabolism
+Cofactor biosynthesis: Lipoate biosynthesis	Metabolism of cofactors and vitamins
+Sphingolipid metabolism	Lipid metabolism
+beta-Alanine metabolism	Amino acid metabolism
+Tyrosine metabolism	Amino acid metabolism
+Glycolysis / Gluconeogenesis;Alanine and aspartate metabolism;Glycine, serine and threonine metabolism	Glycolysis / Gluconeogenesis
+Glycolysis / Gluconeogenesis;Valine, leucine and isoleucine degradation	Glycolysis / Gluconeogenesis
+Glutamate metabolism;Nitrogen metabolism;Arginine and proline metabolism	Amino acid metabolism
+Linoleic acid metabolism	Lipid metabolism
+Cofactor biosynthesis: Carnitine biosynthesis	Metabolism of cofactors and vitamins
+Tryptophan metabolism	Amino acid metabolism
+Intracellular demand	Exchange
+O-Glycan biosynthesis	Glycan biosynthesis and metabolism
+Amino acid metabolism: Homocysteine biosynthesis	Amino acid metabolism
+Intracellular source/sink	Exchange
+Glutamate metabolism;Arginine and proline metabolism	Amino acid metabolism
+Transport, Golgi	Transport
+Amino acid metabolism: Tryptophan metabolism	Amino acid metabolism
+Betaine lipid biosynthesis	Lipid metabolism
+Amino acid metabolism: Phenylalanine metabolism	Amino acid metabolism
+Aldehyde degradation	Not specified
+Polyamine metabolism	Not specified
+Pentose interconversions	Not specified
+Membrane Lipid Metabolism	Lipid metabolism
+Glycerophospholipid Metabolism	Lipid metabolism
+Cofactor and Prosthetic Group Biosynthesis	Metabolism of cofactors and vitamins
+Transport, Inner Membrane	Transport
+Cell Envelope Biosynthesis	Lipid metabolism
+Nucleotides	Nucleotide metabolism
+Transport, Outer Membrane Porin	Transport
+Tyrosine, Tryptophan, and Phenylalanine Metabolism	Amino acid metabolism
+Inorganic Ion Transport and Metabolism	Transport
+S_Carbohydrates_and_related_molecules	Carbohydrate metabolism
+Valine, Leucine, and Isoleucine Metabolism	Amino acid metabolism
+S_Complex_Alcohol_Metabolism	Amino acid metabolism
+Limonene and pinene degradation	Metabolism of terpenoids and polyketides
+B-Ketoadipate pathway	Metabolism of cofactors and vitamins
+Transport	Transport
+S_Lipids	Lipid metabolism
+Fatty Acid Metabolism	Lipid metabolism
+S_Glycine_and_Serine_Metabolism	Amino acid metabolism
+PHAs Metabolism	Lipid metabolism
+Unassigned	Not specified
+ROS Detoxification	Not specified
+Glycerolipid Synthesis	Lipid metabolism
+Thiamine Metabolism	Metabolism of cofactors and vitamins
+Glycine, Serine, and Threonine Metabolism	Amino acid metabolism
+Glutathione Metabolism	Amino acid metabolism
+S_Other_Amino_Acid_Metabolism	Amino acid metabolism
+Glutamate Metabolism	Amino acid metabolism
+S_Folate_Metabolism	Metabolism of cofactors and vitamins
+S_NAD_Biosynthesis	Not specified
+S_Alternate_Carbon_Metabolism	Carbohydrate metabolism
+Urea cycle/amino group metabolism	Urea cycle
+Phenylalanine tyrosine and tryptophan biosynthesis	Amino acid metabolism
+Sterol Biosynthesis	Lipid metabolism
+S_Amino_acids_and_related_molecules	Amino acid metabolism
+S_Transport	Transport
+Synthesis and degradation of Ketones Bodies	Lipid metabolism
+oxidative Phosphorylation	Energy metabolism
+Methylglyoxal Metabolism	Carbohydrate metabolism
+Fatty Acid Degradation	Lipid metabolism
+Ascorbate and Aldarate Metabolism	Carbohydrate metabolism
+Nitrogen Metabolism	Nitrogen metabolism
+S_Nucleotide_Salvage_Pathway	Nucleotide metabolism
+S_Riboflavin_Metabolism	Metabolism of cofactors and vitamins
+Peptidoglycan Biosynthesis	Glycan biosynthesis and metabolism
+S_tRNA_charging	Amino acid metabolism
+Peptidoglycan Metabolism	Glycan biosynthesis and metabolism
+Fatty Acid  Biosynthesis	Lipid metabolism
+Other Amino Acid Metabolism	Amino acid metabolism
+Vitamins &amp; Cofactor Biosynthesis	Metabolism of cofactors and vitamins
+Cholesterol Metabolism	Lipid metabolism
+S_Sterol_Metabolism	Lipid metabolism
+Transport, Extracellular	Transport
+Glyoxylate Metabolism	Carbohydrate metabolism
+S_Other_function	Not specified
+Phenylalanine metabolism	Amino acid metabolism
+Tyrosine; Tryptophan; and Phenylalanine Metabolism	Amino acid metabolism
+Amino Acid Metabolism	Amino acid metabolism
+Transport, Mitochondrial	Transport
+Aminosugar Metabolism	Carbohydrate metabolism
+Proline Metabolism	Amino acid metabolism
+S_Pantothenate_and_CoA_Biosynthesis	Metabolism of cofactors and vitamins
+S_Transport__Mitochondrial	Transport
+NAD Biosynthesis	Not specified
+Modeling: biomass	Biomass
+Redox Metabolism	Energy metabolism
+Benzoate degradation	Xenobiotics biodegradation and metabolism
+Vitamin A Metabolism	Metabolism of cofactors and vitamins
+Energy Metabolism	Energy metabolism
+Vitamin B12 Metabolism	Metabolism of cofactors and vitamins
+Calvin cycle/Pentose phosphate pathway	Energy metabolism
+Carbohydrate Metabolism	Carbohydrate metabolism
+S_GlycolysisGluconeogenesis	Glycolysis / Gluconeogenesis
+S_Arginine_and_Proline_Metabolism	Amino acid metabolism
+S_Nucleotides_and_nucleic_acids	Nucleotide metabolism
+S_Valine__Leucine__and_Isoleucine_Metabolism	Amino acid metabolism
+S_Asparagine_metabolism	Amino acid metabolism
+Modeling: SILICA_c	Not specified
+Pentose and Glucuronate Interconversions	Carbohydrate metabolism
+S_Pyruvate_Metabolism	Carbohydrate metabolism
+Others	Not specified
+Anaplerotic Reactions	Not specified
+S_Alanine_and_Aspartate_Metabolism	Amino acid metabolism
+S_Tyrosine__Tryptophan__and_Phenylalanine_Metabolism	Amino acid metabolism
+Eicosanoid Metabolism	Lipid metabolism
+Transport, Outer Membrane	Transport
+Lipopolysaccharide Biosynthesis / Recycling	Glycan biosynthesis and metabolism
+Aromatic Compound degradation	Xenobiotics biodegradation and metabolism
+Purine Metabolism	Nucleotide metabolism
+PHB byosynthesis	Xenobiotics biodegradation and metabolism
+Lipopolysaccharide Biosynthesis Recycling	Glycan biosynthesis and metabolism
+Nucleotide Metabolism	Nucleotide metabolism
+Vitamins Cofactor Biosynthesis	Metabolism of cofactors and vitamins
+S_Aromatic_Acid_Breakdown	Xenobiotics biodegradation and metabolism
+Arabinose Metabolism	Carbohydrate metabolism
+S_Phosphate_and_sulfur	Not specified
+S_Oxidative_Phosphorylation	Energy metabolism
+S_Coenzymes_and_prosthetic_groups	Not specified
+Heme Degradation	Not specified
+S_Fatty_Acid_Degradation	Lipid metabolism
+Amino acid metabolism: Arginine and proline metabolism	Amino acid metabolism
+Amino acid metabolism: Cysteine and methionine metabolism	Amino acid metabolism
+Amino acid metabolism: Glycine, serine and threonine metabolism	Amino acid metabolism
+Complex Alcohol Metabolism	Not specified
+Glyoxylate cycle; Citrate cycle (TCA cycle); Dicarboxylate metabolism	TCA Cycle
+Transport  Mitochondrial	Transport
+Amino acids and related molecules	Amino acid metabolism
+Aromatic Acid Breakdown	Not specified
+Carbohydrates and related molecules	Carbohydrate metabolism
+Lipids	Lipid metabolism
+tRNA charging	Not specified
+Citrate cycle (TCA cycle);Oxidative phosphorylation	TCA Cycle
+Amino acid metabolism: Amino acid metabolism: Tyrosine metabolism	Amino acid metabolism
+Phosphate and sulfur	Not specified
+tRNA Charging	Not specified
+Metabolite Repair	Not specified
+S_Cell_wall	Not specified
+S_Membrane_bioenergetics	Not specified
+Vitamins & Cofactor Biosynthesis	Metabolism of cofactors and vitamins
+Folate Biosynthesis	Metabolism of cofactors and vitamins
+Wood Ljungadhl Pathway	Not specified
+TCA Cycle	TCA Cycle
+Aminoacyl-tRNA biosynthesis	Amino acid metabolism
+Nicotinate and Nicotinamide Metabolism	Metabolism of cofactors and vitamins
+Glycolysis	Glycolysis / Gluconeogenesis
+Nucelotide Metabolism	Nucleotide metabolism
+Alternate Carbon metabolism	Carbohydrate metabolism
+S_Cofactor_and_Prosthetic_Group_Biosynthesis__Porphyrin_and_Chlorophyll_Metabolism	Metabolism of cofactors and vitamins
+S_Methionine_Metabolism	Amino acid metabolism
+S_Inorganic_polyphosphates_metabolism	Not specified
+Porphyrin and Chlorophyll Metabolism	Metabolism of cofactors and vitamins
+Glycine, Serine and threonine metabolism	Amino acid metabolism
+Pyrimidine Biosynthesis	Nucleotide metabolism
+Pyrimidine metabolism De novo	Nucleotide metabolism
+tRNA Metabolism	Not specified
+Biotin metabolism	Metabolism of cofactors and vitamins
+Inositol Metabolism	Carbohydrate metabolism
+S_Galactose_metabolism	Carbohydrate metabolism
+Glycerol Metabolism	Carbohydrate metabolism
+CoA Catabolism	Carbohydrate metabolism
+COA SYNTHESIS	Carbohydrate metabolism
+S_Fatty_Acid__Biosynthesis	Lipid metabolism
+Riboflavin Metabolism	Metabolism of cofactors and vitamins
+Proline Biosynthesis	Amino acid metabolism
+Glycolysis/ Gluconeogenesis	Glycolysis / Gluconeogenesis
+Lysine degradation	Amino acid metabolism
+GLC_transport	Transport
+Peptidoglycan biosynthesis	Glycan biosynthesis and metabolism
+Starch and Sucrose Metabolism	Carbohydrate metabolism
+Sugar Metabolism	Carbohydrate metabolism
+NAD Metabolism	NOt specified
+S_Lysine_Metabolism	Amino acid metabolism
+Galactose Metabolism	Carbohydrate metabolism
+STARCH AND SUCROSE METABOLISM	Carbohydrate metabolism
+MISCELLANEOUS	Not specified
+S_Thiamine_Metabolism	Amino acid metabolism
+Lysine Biosynthesis	Amino acid metabolism
+Nucleotide Interconversion	Nucleotide metabolism
+Thiamine metabolism	Amino acid metabolism
+S_Glutamate_metabolism	Amino acid metabolism
+Ubiquinone biosynthesis	Lipid metabolism
+UNASSIGNED	Not specified
+FOLATE METABOLISM	Metabolism of cofactors and vitamins
+BILE ACID SYNTHESIS	Not specified
+COA CATABOLISM	Carbohydrate metabolism
+Cysteine and Methionine Metabolism	Amino acid metabolism
+alanine, aspartate and glutamate metabolism	Amino acid metabolism
+cysteine and methionine metabolism	Amino acid metabolism
+glycerolipid metabolism	Lipid metabolism
+inositol metabolism	Carbohydrate metabolism
+amino acid metabolism	Amino acid metabolism
+lysine metabolism	Amino acid metabolism
+Transport, inner membrane	Transport
+heterotroph specific subsystems	Not specified
+carbohydrate metabolism	Carbohydrate metabolism
+one carbon pool by folate	Metabolism of cofactors and vitamins
+redox metabolism	Energy metabolism
+peptidoglycan metabolism	Glycan biosynthesis and metabolism
+porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+propanoate metabolism	Carbohydrate metabolism
+selenoamino acid metabolism	Amino acid metabolism
+Alginate Synthesis	Carbohydrate metabolism
+purine metabolism	Nucleotide metabolism
+iron metabolism	Metabolism of cofactors and vitamins
+pyruvate metabolism	Carbohydrate metabolism
+Vitamin B metabolism	Metabolism of cofactors and vitamins
+Pollutants degradation	Not specified
+Photorespiration/Glyoxylate Degredation	Carbohydrate metabolism
+Fructose and Mannose Metabolism	Carbohydrate metabolism
+Lipid Metabolism	Lipid metabolism
+Cofactor and Prosthetic Group Metabolism	Metabolism of cofactors and vitamins
+Energy Production and Conversion	Energy metabolism
+SOB reactions	Not specified
+Central Metabolism	Not specified
+Nitrate Reduction Pathway	Not specified
+Ubiquinone and other terpenoid-quinone biosynthesis	Lipid metabolism
+Phenylalanine Tyrosine Tryptophan Biosynthesis	Amino acid metabolism
+NPDPS_m	Not specified
+Modeling: Exchange reaction	Exchange
+3PGAREARR-RXN	Not specified
+Dicarboxylate metabolism  TCA cycle Glyoxylate cycle Glyoxylate cycle; TCA cycle; Dicarboxylate metabolism	TCA Cycle
+G3PAT2055Z8Z11Z14Z17Z_c	Not specified
+Amino acid metabolism: Tryptophan metabolism	Amino acid metabolism
+Modeling: Demand	Exchange
+ACHMSSELCYSL_m	Not specified
+Modeling: Sink	Exchange
+Modeling: Biomass reaction	Biomass
+Nucleotides and nucleic acids	Nucleotide metabolism
+Asparagine metabolism	Amino acid metabolism
+Alanine and Aspartate Metabolism;Nitrogen metabolism	Amino acid metabolism
+Other function	Not specified
+Coenzymes and prosthetic groups	Metabolism of cofactors and vitamins
+Modeling: SILICA c	Not specified
+Carbon Fixation	Energy metabolism
+Vitamins Metabolism	Metabolism of cofactors and vitamins
+Vitamins and Co-factor Metabolism	Metabolism of cofactors and vitamins
+Pigments Metabolism	Energy metabolism
+Biomass Reaction	Biomass
+Transporter	Transport
+Dicarboxylate metabolism  TCA cycle Glyoxylate cycle Glyoxylate cycle; TCA cycle; Dicarboxylate metabolism	TCA Cycle
+Sucrose metabolism	Carbohydrate metabolism
+Modeling: Exchange reaction	Exchange
+Modeling: Sink reaction	Exchange
+2,3-Dihydroxypropane-1-sulfonate metabolism	Not specified
+Modeling: Demand reaction	Exchange
+Photon modeling	Energy metabolism
+Transport, lumen	Transport
+Other	Not specified
+Modeling: Demand	Exchange
+ Dicarboxylate metabolism  TCA cycle Glyoxylate cycle Glyoxylate cycle; TCA cycle; Dicarboxylate metabolism	TCA Cycle
+Pentose interconversions	Carbohydrate metabolism
+Aromatic Acid Breakdown	Xenobiotics biodegradation and metabolism
+Phosphate and sulfur	Energy metabolism
+Cofactor Metabolism	Metabolism of cofactors and vitamins
+NAD Biosynthesis	Metabolism of cofactors and vitamins
+	Not specified
+[array([], dtype='<U1')]	Not specified
+Extracellular exchange	Exchange
+Transport, extracellular	Exchange
+Fatty acid oxidation	Lipid metabolism
+' '	Not specified
+Transport, mitochondrial	Transport
+Nucleotide interconversion	Nucleotide metabolism
+Miscellaneous	Not specified
+Transport, peroxisomal	Transport
+Transport, endoplasmic reticular	Transport
+Drug metabolism	Xenobiotics biodegradation and metabolism
+Folate metabolism	Metabolism of cofactors and vitamins
+Bile acid synthesis	Not specified
+Transport, chloroplast	Transport
+Cholesterol metabolism	Lipid metabolism
+Fatty acid biosynthesis	Lipid metabolism
+Glycolysis/gluconeogenesis	Glycolysis / Gluconeogenesis
+Pyruvate metabolism	Carbohydrate metabolism
+Steroid metabolism	Lipid metabolism
+Transport, nuclear	Transport
+Pentose phosphate pathway	Pentose phosphate pathway
+Tyrosine metabolism	Amino acid metabolism
+Intracellular source/sink	Not specified
+Valine, leucine, and isoleucine metabolism	Amino acid metabolism
+Transport, lysosomal	Transport
+Glycine, serine, alanine, and threonine metabolism	Amino acid metabolism
+Arginine and proline metabolism	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	Amino acid metabolism
+Fructose and mannose metabolism	Carbohydrate metabolism
+Citric acid cycle	TCA Cycle
+Glycerophospholipid metabolism	Lipid metabolism
+Starch and sucrose metabolism	Carbohydrate metabolism
+Methionine and cysteine metabolism	Amino acid metabolism
+Urea cycle	Urea cycle
+Glycerolipid metabolism	Lipid metabolism
+Cytochrome metabolism	Xenobiotics biodegradation and metabolism
+Exchange	Exchange
+Purine catabolism	Nucleotide metabolism
+Transport, golgi apparatus	Transport
+Pyrimidine catabolism	Nucleotide metabolism
+NAD metabolism	Not specified
+Eicosanoid metabolism	Lipid metabolism
+Tryptophan metabolism	Amino acid metabolism
+Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+Glycolysis / Gluconeogenesis	Glycolysis / Gluconeogenesis
+Carotenoid biosynthesis	Metabolism of terpenoids and polyketides
+Vitamin B6 metabolism	Metabolism of cofactors and vitamins
+CoA synthesis	Carbohydrate metabolism
+Aminosugar metabolism	Carbohydrate metabolism
+Histidine metabolism	Amino acid metabolism
+Glutathione metabolism	Amino acid metabolism
+Alanine and aspartate metabolism	Amino acid metabolism
+Glutamate metabolism	Amino acid metabolism
+Pyrimidine synthesis	Nucleotide metabolism
+Transport, mitochondria	Transport
+Intracellular demand	Not specified
+Transport, thylakoid lumen	Transport
+Sphingolipid metabolism	Lipid metabolism
+Lysine metabolism	Amino acid metabolism
+Glyoxylate and dicarboxylate metabolism	Carbohydrate metabolism
+Carbon fixation	Energy metabolism
+Cysteine metabolism	Amino acid metabolism
+Inositol phosphate metabolism	Carbohydrate metabolism
+Oxidative phosphorylation	Energy metabolism
+Purine synthesis	Nucleotide metabolism
+Phenylalanine metabolism	Amino acid metabolism
+Biosynthesis of steroids	Lipid metabolism
+Starch metabolism	Carbohydrate metabolism
+Galactose metabolism	Carbohydrate metabolism
+Propanoate metabolism	Carbohydrate metabolism
+Glycine, serine and threonine metabolism	Amino acid metabolism
+Biotin metabolism	Metabolism of cofactors and vitamins
+Biosynthesis of steroids: Steroid synthesis	Lipid metabolism
+Selenoamino acid metabolism	Amino acid metabolism
+Purine metabolism	Nucleotide metabolism
+Methionine metabolism	Amino acid metabolism
+Cysteine and methionine metabolism	Amino acid metabolism
+Porphyrin and chlorophyll metabolism	Metabolism of cofactors and vitamins
+extracellular exchange	Exchange
+Butanoate metabolism	Carbohydrate metabolism
+Thiamine metabolism	Metabolism of cofactors and vitamins
+N-glycan synthesis	Glycan biosynthesis and metabolism
+N-glycan degradation	Glycan biosynthesis and metabolism
+Pentose phosphate pathway;Carbon fixation	Pentose phosphate pathway
+Heme synthesis	Not specified
+Vitamin B2 metabolism	Metabolism of cofactors and vitamins
+Retinol metabolism	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism of terpenoids and polyketides
+Vitamin A metabolism	Metabolism of cofactors and vitamins
+Glycine, serine and threonine metabolism;Cysteine and methionine metabolism	Amino acid metabolism
+beta-Alanine metabolism	Amino acid metabolism
+Glycine, serine and threonine metabolism;Lysine biosynthesis	Amino acid metabolism
+Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis	Amino acid metabolism
+ROS detoxification	Not specified
+Squalene and cholesterol synthesis	Lipid metabolism
+Fatty acid synthesis	Lipid metabolism
+Limonene and pinene degradation	Metabolism of terpenoids and polyketides
+Phosphoglycerolipid metabolism	Lipid metabolism
+Ubiquinone synthesis	Lipid metabolism
+Glycolysis / Gluconeogenesis;Alanine and aspartate metabolism	Glycolysis / Gluconeogenesis
+Pyruvate metabolism;Glyoxylate metabolism	Carbohydrate metabolism
+Pantothenate and CoA biosynthesis	Metabolism of cofactors and vitamins
+Glycolysis / Gluconeogenesis;Carbon fixation	Glycolysis / Gluconeogenesis
+Vitamin D metabolism	Metabolism of cofactors and vitamins
+Arachidonic acid metabolism	Not specified
+Chondroitin synthesis	Not specified
+C5-branched dibasic acid metabolism	Not specified
+Glutamate metabolism;Nitrogen metabolism;Arginine and proline metabolism	Amino acid metabolism
+Alanine and aspartate metabolism;Glutamate metabolism	Amino acid metabolism
+Nucleotide salvage pathway	Nucleotide metabolism
+Vitamin C metabolism	Metabolism of cofactors and vitamins
+Nucleotide sugar metabolism	Nucleotide metabolism
+Pyrimidine metabolism	Nucleotide metabolism
+Cofactor recycling	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism	Metabolism of cofactors and vitamins
+Beta-Alanine metabolism	Amino acid metabolism
+Sulfur metabolism	Energy metabolism
+Cysteine metabolism;Sulfur metabolism	Amino acid metabolism
+Biomass and maintenance functions	Biomass
+Demand	Not specified
+Carbon fixation;Pyruvate metabolism	Carbohydrate metabolism
+Taurine and hypotaurine metabolism	Amino acid metabolism
+TCA cycle;Carbon fixation;CO2 fixation	Carbohydrate metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis; Tyrosine metabolism	Amino acid metabolism
+TCA cycle	TCA Cycle
+Alanine and aspartate metabolism;Glycine, serine and threonine metabolism	Amino acid metabolism
+Nitrogen metabolism	Nitrogen metabolism
+Fatty acid metabolism	Lipid metabolism
+One carbon pool by folate	Metabolism of cofactors and vitamins
+Glutamate metabolism;Nitrogen metabolism	Amino acid metabolism
+Glycolysis / Gluconeogenesis;Alanine and aspartate metabolism;Glycine, serine and threonine metabolism	Glycolysis / Gluconeogenesis
+TCA cycle;CO2 fixation	TCA Cycle
+Polyamine metabolism	Not specified
+Arginine and proline metabolism;Urea cycle and metabolism of amino groups	Amino acid metabolism
+Biosynthesis of steroids: Ubiquinone/Terpenoid-quinone biosynthesis'	Lipid metabolism
+Fatty Acid Synthesis	Lipid metabolism
+Vitamins and Cofactor Biosynthesis	Metabolism of cofactors and vitamins
+Propanoate Metabolism	Carbohydrate metabolism
+Lipopolysaccharide biosynthesis	Glycan biosynthesis and metabolism
+Sulfur Metabolism	Energy metabolism
+Gluconeogenesis	Glycolysis / Gluconeogenesis
+Lysine Metabolism	Amino acid metabolism
+Vitamin B6 Metabolism	Metabolism of cofactors and vitamins
+Anaplerotic Pathway	Not specified
+Methane Metabolism	Energy metabolism
+Fructose Metabolism	Carbohydrate metabolism
+Toluene Pathway	Xenobiotics biodegradation and metabolism
+One Carbon pool by folate	Metabolism of cofactors and vitamins
+Alternate carbon metabolism	Carbohydrate metabolism
+Glycolate metabolism	Carbohydrate metabolism
+Teichoic acid biosynthesis	Glycan biosynthesis and metabolism
+Nicotinate and Nicotinamide	Metabolism of cofactors and vitamins
+Inositol metabolism	Carbohydrate metabolism
+Pyrimidine Metabolism	Nucleotide metabolism
+Homogentisate Pathway	Amino acid metabolism
+Murein Biosynthesis	Glycan biosynthesis and metabolism
+Cell Wall/Membrane/Envelope Metabolism	Glycan biosynthesis and metabolism
+Murein Recycling	Glycan biosynthesis and metabolism
+1 2 Propanediol Catabolism	Carbohydrate metabolism
+Lipids metabolism	Lipid metabolism
+Amino acid metabolism	Amino acid metabolism
+Cellulose Metabolism	Carbohydrate metabolism
+Miscellaneous	Not specified

@@ -1,0 +1,8 @@
+,comp,rxn_count_all,rxn_count_gene,rxn_count_nogene
+0,Cytosol,7312,6766,546
+2,Chloroplast,1176,983,193
+3,Mitochondria,840,693,147
+1,Extracellular space,706,126,580
+4,Periplasm,277,36,241
+6,Peroxisome/glyoxysome,202,186,16
+5,Thylakoid,46,19,27
