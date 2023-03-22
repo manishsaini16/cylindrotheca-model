@@ -1,7 +1,13 @@
 # Genome scale metabolic model of Cylindrotheca closterium
 
-This repository contains (i) genome-scale metabolic model of Cylindrotheca closterium TJRE Ct-21 and (ii) scripts/data related to each figure in the paper “Mixotrophic growth of a ubiquitous marine diatom”. C. closterium was isolated from Tijuana River Estuary (TJRE) outflow in San Diego County (CA, USA). For more details, click here (A link to the manuscript  will be added here)
+Within this repository, you can find two key components: (i) a genome-scale metabolic model of Cylindrotheca closterium TJRE Ct-21, and (ii) all scripts and data associated with the figures presented in our paper entitled "Mixotrophic growth of a ubiquitous marine diatom". C. closterium was isolated from the Tijuana River Estuary (TJRE) outflow, located in San Diego County, California, USA. For more details, click here (A link to the manuscript  will be added here)
 
-## Installation
-### Required software
+## Citation
+Publication details
+## Required software
 
+- Python version 3.7.6 or later.
+- COBRApy version xxxx or later.
+- Gurobi Optimizer or IBM CPLEX is recommended for simulations (free academic license is available for both).
+- pandas version 1.3.5 or later
+- seaborn version 0.11.2 or later
