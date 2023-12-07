@@ -1,7 +1,13 @@
 ,subs,logFC_expr,logFC_flux
-0,Dicarboxylate metabolism;  TCA cycle; Glyoxylate cycle,-0.000446589,-0.877488823
-14,Carbon fixation (carbon dioxide formation),-0.000401869,-0.191978271
-16,Cofactor biosynthesis: Lipoate biosynthesis,-0.000359186,-1.28E-15
-33,Nucleotides and nucleic acids,-0.001584939,-0.010330733
-34,One carbon pool by folate,-0.000362648,-3.84E-15
-43,Sphingolipid metabolism,-0.000718283,-2.710626801
+7,Amino acid metabolism: Lysine degradation,-0.000446589256209,-2.9574917272672048
+9,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",-0.0021432731166555,-0.1932577111588299
+16,Citrate cycle (TCA cycle),-0.0006097300795562,-0.6407188981373857
+23,Galactoglycerolipid metabolism,-0.0031042230687649,-0.2741177086809966
+32,Nitrogen metabolism,-0.0005732131193447,-3.2514018650839063
+33,Nucleotide Salvage Pathway,-0.0142021591983581,-0.1351185529604202
+35,Nucleotides and nucleic acids,-0.0015849394657095,-0.0627594282684565
+36,One carbon pool by folate,-0.0003626479503418,-6.406853007629837e-16
+39,Phosphoglycerolipid metabolism,-0.0009386005451104,-0.0579819669638122
+42,Purine metabolism,-0.0021095053972592,-0.6495713254810349
+43,Pyrimidine metabolism,-0.0004561272052417,-0.022149035675464
+45,Sphingolipid metabolism,-0.0007182832926639,-1.1321262559651664
